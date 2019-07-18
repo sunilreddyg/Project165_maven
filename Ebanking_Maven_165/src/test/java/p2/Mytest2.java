@@ -20,4 +20,10 @@ public class Mytest2 {
   {
 	  
   }
+  
+  @Test
+  public void tc007() 
+  {
+	  
+  }
 }
